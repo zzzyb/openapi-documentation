@@ -1,9 +1,3 @@
----
-title: Shortable stock Data
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ### Request Shortable Stock Data
 
 Request Parameter：

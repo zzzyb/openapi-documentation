@@ -1,9 +1,3 @@
----
-title: System boundary
-keywords: Tiger Secuirties、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ## User Level
 Users with greater than 2000 dollars are second level users，less than 2000 dollars and larger than 200 dollars are third level users. Level 1 users need to contact the tiger to get it.
 Users with a net asset of less than $200 cannot subscribe and request market data.

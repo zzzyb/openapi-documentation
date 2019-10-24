@@ -1,9 +1,3 @@
----
-title: subscription for transactions
-keywords: Tiger Brokers, Tiger API, Open API
-description: Document for Tiger API and Open API
----
-
 ### Interface Specification
 The trading API provides a trading-related interface and a subscription interface to obtain real-time information about the changes of accounts, assets and positions.
 

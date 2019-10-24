@@ -1,9 +1,3 @@
----
-title: Transaction History
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ### Request Transaction
 
 Request Parameter：

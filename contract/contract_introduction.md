@@ -1,9 +1,3 @@
----
-title: Contractdescription
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ### Contract
 
 A contract represents a trading asset defined by the exchange. We use contract objects to identifiy the asset when placing orders or requesting market data.

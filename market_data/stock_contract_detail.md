@@ -1,9 +1,3 @@
----
-title: Stock Trade Information
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ### Request Stock Trade Information
 
 Request Parameter：

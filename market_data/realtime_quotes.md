@@ -1,9 +1,3 @@
----
-title: Real-time market Data
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ### Request real-time Market Data
 
 Request Parameter：

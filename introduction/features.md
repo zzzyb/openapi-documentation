@@ -1,9 +1,3 @@
----
-title: Feature Description
-keywords: Tiger Secuirites、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ## Overview
 
 Tiger Open Platform provides interface services for individual developers and institutional clients. Investors can make full use of Tiger's trading services, market services, account services, push services, etc. to implement their own investment applications.

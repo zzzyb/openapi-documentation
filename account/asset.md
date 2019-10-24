@@ -1,9 +1,3 @@
----
-title:Account Asset
-keywords: Tiger Securites、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ### Get Assets
 
 Request Parameters：

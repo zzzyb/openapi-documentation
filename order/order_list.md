@@ -1,9 +1,3 @@
----
-title: Order List
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ### Get Sepcific Order Information
 
 Request Parameter：

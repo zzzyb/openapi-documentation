@@ -1,9 +1,3 @@
----
-title: Stock Symbol List
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ### Request Stock Symbol List
 
 Request Parameter：

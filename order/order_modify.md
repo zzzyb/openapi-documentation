@@ -1,9 +1,3 @@
----
-title: Modify Order
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API 
----
-
 ### Modify Order
 
 Request Parameter:

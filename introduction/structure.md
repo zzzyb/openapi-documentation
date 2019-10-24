@@ -1,9 +1,3 @@
----
-title: Framework
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ## Framework
 
 The Tiger Open Platform provides most of the services over the HTTP interface, and most of the API functionality is accessed through a simple HTTP POST request. At the same time, it also provides a socket interface to push the latest market information (implemented by WebSocket/Stomp protocol).

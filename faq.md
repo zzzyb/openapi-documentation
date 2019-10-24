@@ -1,9 +1,3 @@
----
-title: FAQ
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ## Issue Feedback
 
 If you have any questions, feel free to contract us through our discord channel https://discord.gg/nbqvAQr

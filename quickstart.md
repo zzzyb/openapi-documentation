@@ -1,10 +1,3 @@
----
-title: Quick Start
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API help document
-
----
-
 We provide service only to users with a funded account, you can have access to all the api as soon as you register as a developer.
 
 #### Information required for Registration：

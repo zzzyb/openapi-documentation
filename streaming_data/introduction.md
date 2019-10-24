@@ -1,9 +1,3 @@
----
-title: subscription description
-keywords: Tiger Brokers, Tiger API, Open API
-description: Document for Tiger API and Open API
----
-
 ## Introduction of Service
 
 Websocket protocol is used for client and server communication, stomp sub-protocol is used for data transmission, and users can develop the relevant language according to their preference. Such as Java, Python, Javascript and so on.

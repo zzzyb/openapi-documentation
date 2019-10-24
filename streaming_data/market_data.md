@@ -1,7 +1,3 @@
-title: quote subscription
-keywords: Tiger Brokers、Tiger API、 Open API
-description: Document for Tiger API and Open API
-
 ### Interface Specification
 API provides subscription for transaction information and quote, which could be used to get real-time updates.
 

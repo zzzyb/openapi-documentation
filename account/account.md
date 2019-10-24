@@ -1,9 +1,3 @@
----
-title:Account list 
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ### Get Managed Account List
 
 request parameters：

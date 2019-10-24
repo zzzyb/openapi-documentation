@@ -1,9 +1,3 @@
----
-title: Place Order
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ### Place Order 
 
 Request Parameter：

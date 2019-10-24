@@ -1,9 +1,3 @@
----
-title: Data Type
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ### Contract Type
 
 Identification|Contract Type

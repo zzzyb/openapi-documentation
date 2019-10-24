@@ -1,9 +1,3 @@
----
-title: Get Contract Information
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger OpenAPI help Document
----
-
 ### Get Contract information
 
 Request Parameters：

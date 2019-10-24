@@ -1,9 +1,3 @@
----
-title: Cancel Order
-keywords: Tiger Secuirties、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ### Cancel Order
 
 Request Parameter：

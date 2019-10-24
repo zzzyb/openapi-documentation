@@ -1,9 +1,3 @@
----
-title: Stock Kline Data
-keywords: Tiger Securities、Tiger API、 Open API
-description: Tiger Open API help document
----
-
 ### Request Kline Data
 
 Request Parameter： 
